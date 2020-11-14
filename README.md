@@ -1,4 +1,4 @@
-# sumoto-garbage_separation.json
+# sumoto-garbage-separation.json
 
 兵庫県洲本市のごみ・資源の分別データです。
 
